@@ -1,0 +1,4 @@
+orange = ff9801
+greydark = d5d5d5
+greylight = e5e5e5
+sky=cbeaff
